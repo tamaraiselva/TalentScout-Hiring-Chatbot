@@ -8,7 +8,7 @@ PHONE : +91 9688814221
 EXPERIENCE : 1
 DESIRED POSITION : ASSOCIATE SOFTWARE ENGINEER
 LINKEDIN : https://www.linkedin.com/in/tamarai-selvan-ravi-6b5311213/
-DEPLOY : https://tamaraiselva-talentscout-hiring-chatbot-main-ub96d1.streamlit.app/
+DEPLOY : https://talentscout-hiring-chatbot-app1.streamlit.app/
 """
 
 import streamlit as st
